@@ -8,8 +8,7 @@ real time. So this is it. You can make your suggestions too. Thank you
 
 ### Links
 
-- Solution URL: [here](https://github.com/Sage-hex/Qr-code-component)
-- Live Site URL: [here](https://nuelsage-qr-code-component.netlify.app/)
+- Live Site URL: [here](https://sage-hex.github.io/analog-clock/)
 
 ### Built with
 
