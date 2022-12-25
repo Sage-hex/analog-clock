@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Design preview for Analog Clock](./images/screenshot.PNG)
 
 # Analog-clock
@@ -23,3 +24,6 @@ real time. So this is it. You can make your suggestions too. Thank you
 - Website - [Kosisochukwu Emmanuel(Nuelsage)](https://www.twitter.com/nuel2sage)
 - Frontend Mentor - [@sage-hex](https://www.frontendmentor.io/profile/sage-hex)
 - Twitter - [@nuel2sage](https://www.twitter.com/nuelsage)
+=======
+
+>>>>>>> eb0988e553265f350d5db67c0e44d4964dfe4029
